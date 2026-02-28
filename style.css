@@ -235,3 +235,31 @@ footer {
 .btn-invest:hover { background-color: #1d4ed8; transform: translateY(-2px); box-shadow: 0 6px 16px rgba(37, 99, 235, 0.3); }
 .btn-affiliate { background: var(--primary-orange); color: white; text-decoration: none; padding: 10px 20px; border-radius: 6px; display: inline-block; font-weight: 600; margin-top: 10px; transition: background 0.2s;}
 .btn-affiliate:hover { background: #ea580c; }
+
+.blog-section {
+  max-width: 900px;
+  margin: 60px auto;
+}
+
+.blog-section h2 {
+  margin-bottom: 20px;
+}
+
+.blog-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.blog-section li {
+  margin-bottom: 12px;
+}
+
+.blog-section a {
+  text-decoration: none;
+  color: #2563eb;
+  font-weight: 500;
+}
+
+.blog-section a:hover {
+  text-decoration: underline;
+}

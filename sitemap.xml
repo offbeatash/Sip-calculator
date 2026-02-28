@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
    <url>
       <loc>https://autonudge.netlify.app/</loc>
    </url>
+
    <url>
       <loc>https://autonudge.netlify.app/about.html</loc>
    </url>
+
    <url>
       <loc>https://autonudge.netlify.app/privacy-policy.html</loc>
    </url>
+
    <url>
       <loc>https://autonudge.netlify.app/terms.html</loc>
    </url>
+
    <url>
       <loc>https://autonudge.netlify.app/contact.html</loc>
    </url>
+
+   <url>
+      <loc>https://autonudge.netlify.app/blog/sip-for-beginners.html</loc>
+   </url>
+
+   <url>
+      <loc>https://autonudge.netlify.app/blog/sip-vs-lumpsum.html</loc>
+   </url>
+
+   <url>
+      <loc>https://autonudge.netlify.app/blog/power-of-compounding.html</loc>
+   </url>
+
+   <url>
+      <loc>https://autonudge.netlify.app/blog/how-5000-sip-grows.html</loc>
+   </url>
+
+   <url>
+      <loc>https://autonudge.netlify.app/blog/best-investment-options-india.html</loc>
+   </url>
+
 </urlset>
