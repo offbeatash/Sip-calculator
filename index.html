@@ -16,6 +16,7 @@
     <title>Free SIP & Lumpsum Calculator | AutoNudge</title>
     <meta name="description" content="Calculate your mutual fund returns with our free, easy-to-use SIP and Lumpsum calculator. Plan your financial future today.">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
     <style>
         /* --- PAGE LAYOUT CSS --- */
         :root {
@@ -401,11 +402,25 @@
         updateSliderBackground(amountSlider); updateSliderBackground(rateSlider); updateSliderBackground(timeSlider);
         initChart(); calculate();
     </script>
-    <footer style="margin-top:40px; padding:20px; text-align:center; background:#f4f4f4;">
-  <a href="about.html">About</a> |
-  <a href="privacy-policy.html">Privacy Policy</a> |
-  <a href="terms.html">Terms</a> |
-  <a href="contact.html">Contact</a>
+    <footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-brand">
+            <h3>AutoNudge</h3>
+            <p>Smart financial calculators to help you make better investment decisions.</p>
+        </div>
+
+        <div class="footer-links">
+            <h4>Quick Links</h4>
+            <a href="about.html">About</a>
+            <a href="privacy-policy.html">Privacy Policy</a>
+            <a href="terms.html">Terms</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        © 2026 AutoNudge. All rights reserved.
+    </div>
 </footer>
 </body>
 </html>
