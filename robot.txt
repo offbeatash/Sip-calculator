@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://autonudge.netlify.app/sitemap.xml
